@@ -1,3 +1,7 @@
 The thing about the river is you never step in the same river twice.
+<<<<<<< HEAD
 
 I've been standing at the edge of th water 
+=======
+the water always changing always flowing.
+>>>>>>> origin/master
