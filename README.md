@@ -1,0 +1,1 @@
+This is  a repositiry containing messages between Katie, Danielle, and Julia. It is to get us used to using Git Hub and correcting errors.
